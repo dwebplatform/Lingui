@@ -1,1 +1,0 @@
-/* eslint-disable */module.exports={languageData:{"plurals":function(n,ord){if(ord)return"other";return n==1?"one":"other"}},messages:{"<0>Message</0>":"<0>Message</0>","Hello":"Hello"}};

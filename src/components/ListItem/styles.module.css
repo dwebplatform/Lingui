@@ -1,0 +1,33 @@
+.item {
+	width:80%;
+	text-align: center;
+	list-style: none;
+}
+
+.item-content{
+	display: flex;
+	border: 1px solid none;
+	padding: 0.25em 1em;
+	border-radius: 0.2rem;
+	background: #d4cdcdcc;
+	justify-content: space-between;
+}
+.item-content-img{
+	width:100%;
+  overflow: hidden;
+}
+.item-image {
+	width:120px;
+	height: 120px;
+	border-radius: 50%;
+	box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+
+}
+.item-content-text{
+	width:100%;
+
+	line-height: 1.51;
+	padding: 0.25rem;
+	color:#fff;
+	font-weight: bold;
+}
